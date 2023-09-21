@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\bin\Debug\net7.0\13.Holiday Between Two Dates.exe
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\bin\Debug\net7.0\13.Holiday Between Two Dates.deps.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\bin\Debug\net7.0\13.Holiday Between Two Dates.runtimeconfig.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\bin\Debug\net7.0\13.Holiday Between Two Dates.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\bin\Debug\net7.0\13.Holiday Between Two Dates.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\obj\Debug\net7.0\13.Holiday Between Two Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\obj\Debug\net7.0\13.Holiday Between Two Dates.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\obj\Debug\net7.0\13.Holiday Between Two Dates.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\obj\Debug\net7.0\13.Holiday Between Two Dates.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\obj\Debug\net7.0\13.Holiday Between Two Dates.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\obj\Debug\net7.0\refint\13.Holiday Between Two Dates.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\obj\Debug\net7.0\13.Holiday Between Two Dates.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\obj\Debug\net7.0\13.Holiday Between Two Dates.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\13.Holiday Between Two Dates\obj\Debug\net7.0\ref\13.Holiday Between Two Dates.dll

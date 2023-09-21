@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\bin\Debug\net7.0\07.Vending Machine.exe
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\bin\Debug\net7.0\07.Vending Machine.deps.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\bin\Debug\net7.0\07.Vending Machine.runtimeconfig.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\bin\Debug\net7.0\07.Vending Machine.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\bin\Debug\net7.0\07.Vending Machine.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\obj\Debug\net7.0\07.Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\obj\Debug\net7.0\07.Vending Machine.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\obj\Debug\net7.0\07.Vending Machine.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\obj\Debug\net7.0\07.Vending Machine.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\obj\Debug\net7.0\07.Vending Machine.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\obj\Debug\net7.0\refint\07.Vending Machine.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\obj\Debug\net7.0\07.Vending Machine.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\obj\Debug\net7.0\07.Vending Machine.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\07.Vending Machine\obj\Debug\net7.0\ref\07.Vending Machine.dll

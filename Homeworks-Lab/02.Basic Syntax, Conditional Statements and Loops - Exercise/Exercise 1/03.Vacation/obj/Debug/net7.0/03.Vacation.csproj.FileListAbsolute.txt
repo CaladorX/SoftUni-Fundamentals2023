@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\bin\Debug\net7.0\03.Vacation.exe
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\bin\Debug\net7.0\03.Vacation.deps.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\bin\Debug\net7.0\03.Vacation.runtimeconfig.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\bin\Debug\net7.0\03.Vacation.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\bin\Debug\net7.0\03.Vacation.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\obj\Debug\net7.0\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\obj\Debug\net7.0\03.Vacation.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\obj\Debug\net7.0\03.Vacation.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\obj\Debug\net7.0\03.Vacation.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\obj\Debug\net7.0\03.Vacation.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\obj\Debug\net7.0\refint\03.Vacation.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\obj\Debug\net7.0\03.Vacation.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\obj\Debug\net7.0\03.Vacation.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\03.Vacation\obj\Debug\net7.0\ref\03.Vacation.dll

@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\bin\Debug\net7.0\07.Theatre Promotions.exe
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\bin\Debug\net7.0\07.Theatre Promotions.deps.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\bin\Debug\net7.0\07.Theatre Promotions.runtimeconfig.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\bin\Debug\net7.0\07.Theatre Promotions.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\bin\Debug\net7.0\07.Theatre Promotions.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\obj\Debug\net7.0\07.Theatre Promotions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\obj\Debug\net7.0\07.Theatre Promotions.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\obj\Debug\net7.0\07.Theatre Promotions.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\obj\Debug\net7.0\07.Theatre Promotions.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\obj\Debug\net7.0\07.Theatre Promotions.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\obj\Debug\net7.0\refint\07.Theatre Promotions.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\obj\Debug\net7.0\07.Theatre Promotions.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\obj\Debug\net7.0\07.Theatre Promotions.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\07.Theatre Promotions\obj\Debug\net7.0\ref\07.Theatre Promotions.dll

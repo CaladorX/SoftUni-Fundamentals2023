@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\bin\Debug\net7.0\02.EnglishNameOfLastDigit.exe
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\bin\Debug\net7.0\02.EnglishNameOfLastDigit.deps.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\bin\Debug\net7.0\02.EnglishNameOfLastDigit.runtimeconfig.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\bin\Debug\net7.0\02.EnglishNameOfLastDigit.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\bin\Debug\net7.0\02.EnglishNameOfLastDigit.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\obj\Debug\net7.0\02.EnglishNameOfLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\obj\Debug\net7.0\02.EnglishNameOfLastDigit.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\obj\Debug\net7.0\02.EnglishNameOfLastDigit.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\obj\Debug\net7.0\02.EnglishNameOfLastDigit.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\obj\Debug\net7.0\02.EnglishNameOfLastDigit.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\obj\Debug\net7.0\refint\02.EnglishNameOfLastDigit.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\obj\Debug\net7.0\02.EnglishNameOfLastDigit.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\obj\Debug\net7.0\02.EnglishNameOfLastDigit.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\02.EnglishNameOfLastDigit\obj\Debug\net7.0\ref\02.EnglishNameOfLastDigit.dll

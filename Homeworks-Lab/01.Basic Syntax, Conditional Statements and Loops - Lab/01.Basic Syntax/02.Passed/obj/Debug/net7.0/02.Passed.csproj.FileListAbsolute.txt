@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\bin\Debug\net7.0\02.Passed.exe
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\bin\Debug\net7.0\02.Passed.deps.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\bin\Debug\net7.0\02.Passed.runtimeconfig.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\bin\Debug\net7.0\02.Passed.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\bin\Debug\net7.0\02.Passed.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\obj\Debug\net7.0\02.Passed.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\obj\Debug\net7.0\02.Passed.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\obj\Debug\net7.0\02.Passed.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\obj\Debug\net7.0\02.Passed.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\obj\Debug\net7.0\02.Passed.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\obj\Debug\net7.0\refint\02.Passed.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\obj\Debug\net7.0\02.Passed.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\obj\Debug\net7.0\02.Passed.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\02.Passed\obj\Debug\net7.0\ref\02.Passed.dll

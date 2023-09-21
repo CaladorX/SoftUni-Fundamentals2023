@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\bin\Debug\net7.0\01.Basic Syntax.exe
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\bin\Debug\net7.0\01.Basic Syntax.deps.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\bin\Debug\net7.0\01.Basic Syntax.runtimeconfig.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\bin\Debug\net7.0\01.Basic Syntax.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\bin\Debug\net7.0\01.Basic Syntax.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\obj\Debug\net7.0\01.Basic Syntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\obj\Debug\net7.0\01.Basic Syntax.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\obj\Debug\net7.0\01.Basic Syntax.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\obj\Debug\net7.0\01.Basic Syntax.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\obj\Debug\net7.0\01.Basic Syntax.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\obj\Debug\net7.0\refint\01.Basic Syntax.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\obj\Debug\net7.0\01.Basic Syntax.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\obj\Debug\net7.0\01.Basic Syntax.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\01.Basic Syntax\obj\Debug\net7.0\ref\01.Basic Syntax.dll

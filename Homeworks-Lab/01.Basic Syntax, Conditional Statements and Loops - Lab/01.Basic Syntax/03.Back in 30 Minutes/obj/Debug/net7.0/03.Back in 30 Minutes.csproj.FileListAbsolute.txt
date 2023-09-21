@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\bin\Debug\net7.0\03.Back in 30 Minutes.exe
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\bin\Debug\net7.0\03.Back in 30 Minutes.deps.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\bin\Debug\net7.0\03.Back in 30 Minutes.runtimeconfig.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\bin\Debug\net7.0\03.Back in 30 Minutes.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\bin\Debug\net7.0\03.Back in 30 Minutes.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\obj\Debug\net7.0\03.Back in 30 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\obj\Debug\net7.0\03.Back in 30 Minutes.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\obj\Debug\net7.0\03.Back in 30 Minutes.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\obj\Debug\net7.0\03.Back in 30 Minutes.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\obj\Debug\net7.0\03.Back in 30 Minutes.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\obj\Debug\net7.0\refint\03.Back in 30 Minutes.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\obj\Debug\net7.0\03.Back in 30 Minutes.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\obj\Debug\net7.0\03.Back in 30 Minutes.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\03.Back in 30 Minutes\obj\Debug\net7.0\ref\03.Back in 30 Minutes.dll

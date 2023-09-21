@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\bin\Debug\net7.0\06.Strong Number.exe
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\bin\Debug\net7.0\06.Strong Number.deps.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\bin\Debug\net7.0\06.Strong Number.runtimeconfig.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\bin\Debug\net7.0\06.Strong Number.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\bin\Debug\net7.0\06.Strong Number.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\obj\Debug\net7.0\06.Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\obj\Debug\net7.0\06.Strong Number.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\obj\Debug\net7.0\06.Strong Number.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\obj\Debug\net7.0\06.Strong Number.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\obj\Debug\net7.0\06.Strong Number.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\obj\Debug\net7.0\refint\06.Strong Number.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\obj\Debug\net7.0\06.Strong Number.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\obj\Debug\net7.0\06.Strong Number.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\06.Strong Number\obj\Debug\net7.0\ref\06.Strong Number.dll

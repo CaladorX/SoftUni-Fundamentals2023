@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\bin\Debug\net7.0\12.Even Numbers.exe
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\bin\Debug\net7.0\12.Even Numbers.deps.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\bin\Debug\net7.0\12.Even Numbers.runtimeconfig.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\bin\Debug\net7.0\12.Even Numbers.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\bin\Debug\net7.0\12.Even Numbers.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\obj\Debug\net7.0\12.Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\obj\Debug\net7.0\12.Even Numbers.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\obj\Debug\net7.0\12.Even Numbers.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\obj\Debug\net7.0\12.Even Numbers.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\obj\Debug\net7.0\12.Even Numbers.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\obj\Debug\net7.0\refint\12.Even Numbers.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\obj\Debug\net7.0\12.Even Numbers.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\obj\Debug\net7.0\12.Even Numbers.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\12.Even Numbers\obj\Debug\net7.0\ref\12.Even Numbers.dll

@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\bin\Debug\net7.0\10.Rage Expenses.exe
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\bin\Debug\net7.0\10.Rage Expenses.deps.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\bin\Debug\net7.0\10.Rage Expenses.runtimeconfig.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\bin\Debug\net7.0\10.Rage Expenses.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\bin\Debug\net7.0\10.Rage Expenses.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\obj\Debug\net7.0\10.Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\obj\Debug\net7.0\10.Rage Expenses.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\obj\Debug\net7.0\10.Rage Expenses.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\obj\Debug\net7.0\10.Rage Expenses.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\obj\Debug\net7.0\10.Rage Expenses.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\obj\Debug\net7.0\refint\10.Rage Expenses.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\obj\Debug\net7.0\10.Rage Expenses.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\obj\Debug\net7.0\10.Rage Expenses.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\10.Rage Expenses\obj\Debug\net7.0\ref\10.Rage Expenses.dll

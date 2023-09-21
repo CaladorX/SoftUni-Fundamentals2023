@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\bin\Debug\net7.0\04.Print and sum.exe
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\bin\Debug\net7.0\04.Print and sum.deps.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\bin\Debug\net7.0\04.Print and sum.runtimeconfig.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\bin\Debug\net7.0\04.Print and sum.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\bin\Debug\net7.0\04.Print and sum.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\obj\Debug\net7.0\04.Print and sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\obj\Debug\net7.0\04.Print and sum.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\obj\Debug\net7.0\04.Print and sum.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\obj\Debug\net7.0\04.Print and sum.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\obj\Debug\net7.0\04.Print and sum.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\obj\Debug\net7.0\refint\04.Print and sum.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\obj\Debug\net7.0\04.Print and sum.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\obj\Debug\net7.0\04.Print and sum.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 1\04.Print and sum\obj\Debug\net7.0\ref\04.Print and sum.dll

@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\bin\Debug\net7.0\01.SortNumbers.exe
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\bin\Debug\net7.0\01.SortNumbers.deps.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\bin\Debug\net7.0\01.SortNumbers.runtimeconfig.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\bin\Debug\net7.0\01.SortNumbers.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\bin\Debug\net7.0\01.SortNumbers.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\obj\Debug\net7.0\01.SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\obj\Debug\net7.0\01.SortNumbers.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\obj\Debug\net7.0\01.SortNumbers.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\obj\Debug\net7.0\01.SortNumbers.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\obj\Debug\net7.0\01.SortNumbers.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\obj\Debug\net7.0\refint\01.SortNumbers.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\obj\Debug\net7.0\01.SortNumbers.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\obj\Debug\net7.0\01.SortNumbers.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\01.SortNumbers\obj\Debug\net7.0\ref\01.SortNumbers.dll

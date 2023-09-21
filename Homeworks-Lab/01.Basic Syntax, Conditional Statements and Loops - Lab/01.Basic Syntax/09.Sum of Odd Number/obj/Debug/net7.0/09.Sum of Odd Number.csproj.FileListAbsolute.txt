@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\bin\Debug\net7.0\09.Sum of Odd Number.exe
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\bin\Debug\net7.0\09.Sum of Odd Number.deps.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\bin\Debug\net7.0\09.Sum of Odd Number.runtimeconfig.json
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\bin\Debug\net7.0\09.Sum of Odd Number.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\bin\Debug\net7.0\09.Sum of Odd Number.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\obj\Debug\net7.0\09.Sum of Odd Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\obj\Debug\net7.0\09.Sum of Odd Number.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\obj\Debug\net7.0\09.Sum of Odd Number.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\obj\Debug\net7.0\09.Sum of Odd Number.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\obj\Debug\net7.0\09.Sum of Odd Number.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\obj\Debug\net7.0\refint\09.Sum of Odd Number.dll
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\obj\Debug\net7.0\09.Sum of Odd Number.pdb
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\obj\Debug\net7.0\09.Sum of Odd Number.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\01.Basic Syntax, Conditional Statements and Loops - Lab\01.Basic Syntax\09.Sum of Odd Number\obj\Debug\net7.0\ref\09.Sum of Odd Number.dll

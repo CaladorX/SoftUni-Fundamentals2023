@@ -1,0 +1,14 @@
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\bin\Debug\net7.0\04.ReverseString.exe
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\bin\Debug\net7.0\04.ReverseString.deps.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\bin\Debug\net7.0\04.ReverseString.runtimeconfig.json
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\bin\Debug\net7.0\04.ReverseString.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\bin\Debug\net7.0\04.ReverseString.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\obj\Debug\net7.0\04.ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\obj\Debug\net7.0\04.ReverseString.AssemblyInfoInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\obj\Debug\net7.0\04.ReverseString.AssemblyInfo.cs
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\obj\Debug\net7.0\04.ReverseString.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\obj\Debug\net7.0\04.ReverseString.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\obj\Debug\net7.0\refint\04.ReverseString.dll
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\obj\Debug\net7.0\04.ReverseString.pdb
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\obj\Debug\net7.0\04.ReverseString.genruntimeconfig.cache
+D:\C# - Fundamentals - W and F\02.Basic Syntax, Conditional Statements and Loops - Exercise\Exercise 2\04.ReverseString\obj\Debug\net7.0\ref\04.ReverseString.dll
