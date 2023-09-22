@@ -7,9 +7,6 @@ namespace _01.Convert_Meters_to_Kilometers
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");
         }
     }
 }

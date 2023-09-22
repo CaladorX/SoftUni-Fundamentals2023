@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# - Fundamentals - W and F\\03.Data Types and Variables - Lab\\01.Convert Meters to Kilometers\\08.Town Info\\08.Town Info.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni-Fundamentals2023\\Homeworks-Lab\\03.Data Types and Variables - Lab\\01.Convert Meters to Kilometers\\08.Town Info\\08.Town Info.csproj",
       "projectName": "08.Town Info",
-      "projectPath": "D:\\C# - Fundamentals - W and F\\03.Data Types and Variables - Lab\\01.Convert Meters to Kilometers\\08.Town Info\\08.Town Info.csproj",
+      "projectPath": "D:\\GitHub\\SoftUni-Fundamentals2023\\Homeworks-Lab\\03.Data Types and Variables - Lab\\01.Convert Meters to Kilometers\\08.Town Info\\08.Town Info.csproj",
       "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-      "outputPath": "D:\\C# - Fundamentals - W and F\\03.Data Types and Variables - Lab\\01.Convert Meters to Kilometers\\08.Town Info\\obj\\",
+      "outputPath": "D:\\GitHub\\SoftUni-Fundamentals2023\\Homeworks-Lab\\03.Data Types and Variables - Lab\\01.Convert Meters to Kilometers\\08.Town Info\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
