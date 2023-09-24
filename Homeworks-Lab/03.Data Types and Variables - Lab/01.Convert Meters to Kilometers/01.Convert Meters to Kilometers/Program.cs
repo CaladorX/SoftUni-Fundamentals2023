@@ -6,7 +6,9 @@ namespace _01.Convert_Meters_to_Kilometers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int meters = int.Parse(Console.ReadLine());
+            float kilometers = meters / 1000.0f;
+            Console.WriteLine($"{kilometers:f2}");
         }
     }
 }

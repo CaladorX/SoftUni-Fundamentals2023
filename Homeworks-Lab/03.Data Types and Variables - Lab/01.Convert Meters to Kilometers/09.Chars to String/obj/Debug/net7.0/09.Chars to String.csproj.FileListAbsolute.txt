@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\bin\Debug\net7.0\09.Chars to String.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\bin\Debug\net7.0\09.Chars to String.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\bin\Debug\net7.0\09.Chars to String.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\bin\Debug\net7.0\09.Chars to String.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\bin\Debug\net7.0\09.Chars to String.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\obj\Debug\net7.0\09.Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\obj\Debug\net7.0\09.Chars to String.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\obj\Debug\net7.0\09.Chars to String.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\obj\Debug\net7.0\09.Chars to String.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\obj\Debug\net7.0\09.Chars to String.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\obj\Debug\net7.0\refint\09.Chars to String.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\obj\Debug\net7.0\09.Chars to String.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\obj\Debug\net7.0\09.Chars to String.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\09.Chars to String\obj\Debug\net7.0\ref\09.Chars to String.dll

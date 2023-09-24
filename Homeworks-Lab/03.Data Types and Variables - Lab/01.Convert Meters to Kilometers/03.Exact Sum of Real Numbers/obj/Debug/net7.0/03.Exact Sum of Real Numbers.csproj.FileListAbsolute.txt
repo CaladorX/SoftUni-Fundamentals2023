@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\bin\Debug\net7.0\03.Exact Sum of Real Numbers.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\bin\Debug\net7.0\03.Exact Sum of Real Numbers.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\bin\Debug\net7.0\03.Exact Sum of Real Numbers.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\bin\Debug\net7.0\03.Exact Sum of Real Numbers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\bin\Debug\net7.0\03.Exact Sum of Real Numbers.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\obj\Debug\net7.0\03.Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\obj\Debug\net7.0\03.Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\obj\Debug\net7.0\03.Exact Sum of Real Numbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\obj\Debug\net7.0\03.Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\obj\Debug\net7.0\03.Exact Sum of Real Numbers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\obj\Debug\net7.0\refint\03.Exact Sum of Real Numbers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\obj\Debug\net7.0\03.Exact Sum of Real Numbers.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\obj\Debug\net7.0\03.Exact Sum of Real Numbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\03.Exact Sum of Real Numbers\obj\Debug\net7.0\ref\03.Exact Sum of Real Numbers.dll

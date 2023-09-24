@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\bin\Debug\net7.0\01.Convert Meters to Kilometers.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\bin\Debug\net7.0\01.Convert Meters to Kilometers.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\bin\Debug\net7.0\01.Convert Meters to Kilometers.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\bin\Debug\net7.0\01.Convert Meters to Kilometers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\bin\Debug\net7.0\01.Convert Meters to Kilometers.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\obj\Debug\net7.0\01.Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\obj\Debug\net7.0\01.Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\obj\Debug\net7.0\01.Convert Meters to Kilometers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\obj\Debug\net7.0\01.Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\obj\Debug\net7.0\01.Convert Meters to Kilometers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\obj\Debug\net7.0\refint\01.Convert Meters to Kilometers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\obj\Debug\net7.0\01.Convert Meters to Kilometers.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\obj\Debug\net7.0\01.Convert Meters to Kilometers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\01.Convert Meters to Kilometers\obj\Debug\net7.0\ref\01.Convert Meters to Kilometers.dll

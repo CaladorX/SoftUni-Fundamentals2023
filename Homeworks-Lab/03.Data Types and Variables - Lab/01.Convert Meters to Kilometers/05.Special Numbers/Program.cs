@@ -6,7 +6,20 @@ namespace _05.Special_Numbers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int n = int.Parse(Console.ReadLine());
+            for (int num = 1; num <= n; num++)
+            {
+                int sum = 0;
+                int digits = num;
+                while (digits > 0)
+                {
+                    sum += digits % 10;
+                    digits /=  10;
+                }
+
+                bool isSpecial = sum == 5 || sum == 7 || sum == 11;
+                Console.WriteLine($"{num} -> {isSpecial}");
+            }
         }
     }
 }

@@ -6,7 +6,10 @@ namespace _06.Reversed_Chars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            char firstChar = char.Parse(Console.ReadLine());
+            char secondChar = char.Parse(Console.ReadLine());
+            char thirdChar = char.Parse(Console.ReadLine());
+            Console.WriteLine($"{thirdChar} {secondChar} { firstChar}");
         }
     }
 }

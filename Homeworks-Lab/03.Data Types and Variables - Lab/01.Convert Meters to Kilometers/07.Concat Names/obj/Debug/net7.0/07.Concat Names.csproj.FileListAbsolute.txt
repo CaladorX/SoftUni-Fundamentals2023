@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\bin\Debug\net7.0\07.Concat Names.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\bin\Debug\net7.0\07.Concat Names.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\bin\Debug\net7.0\07.Concat Names.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\bin\Debug\net7.0\07.Concat Names.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\bin\Debug\net7.0\07.Concat Names.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\obj\Debug\net7.0\07.Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\obj\Debug\net7.0\07.Concat Names.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\obj\Debug\net7.0\07.Concat Names.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\obj\Debug\net7.0\07.Concat Names.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\obj\Debug\net7.0\07.Concat Names.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\obj\Debug\net7.0\refint\07.Concat Names.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\obj\Debug\net7.0\07.Concat Names.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\obj\Debug\net7.0\07.Concat Names.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\07.Concat Names\obj\Debug\net7.0\ref\07.Concat Names.dll

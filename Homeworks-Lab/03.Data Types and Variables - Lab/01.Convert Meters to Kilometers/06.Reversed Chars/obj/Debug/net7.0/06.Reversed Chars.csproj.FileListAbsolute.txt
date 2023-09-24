@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\bin\Debug\net7.0\06.Reversed Chars.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\bin\Debug\net7.0\06.Reversed Chars.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\bin\Debug\net7.0\06.Reversed Chars.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\bin\Debug\net7.0\06.Reversed Chars.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\bin\Debug\net7.0\06.Reversed Chars.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\obj\Debug\net7.0\06.Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\obj\Debug\net7.0\06.Reversed Chars.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\obj\Debug\net7.0\06.Reversed Chars.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\obj\Debug\net7.0\06.Reversed Chars.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\obj\Debug\net7.0\06.Reversed Chars.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\obj\Debug\net7.0\refint\06.Reversed Chars.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\obj\Debug\net7.0\06.Reversed Chars.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\obj\Debug\net7.0\06.Reversed Chars.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\03.Data Types and Variables - Lab\01.Convert Meters to Kilometers\06.Reversed Chars\obj\Debug\net7.0\ref\06.Reversed Chars.dll
