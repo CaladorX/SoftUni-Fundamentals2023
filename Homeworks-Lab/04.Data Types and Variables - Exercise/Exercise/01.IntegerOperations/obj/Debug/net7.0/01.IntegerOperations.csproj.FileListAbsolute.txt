@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\bin\Debug\net7.0\01.IntegerOperations.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\bin\Debug\net7.0\01.IntegerOperations.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\bin\Debug\net7.0\01.IntegerOperations.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\bin\Debug\net7.0\01.IntegerOperations.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\bin\Debug\net7.0\01.IntegerOperations.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\obj\Debug\net7.0\01.IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\obj\Debug\net7.0\01.IntegerOperations.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\obj\Debug\net7.0\01.IntegerOperations.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\obj\Debug\net7.0\01.IntegerOperations.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\obj\Debug\net7.0\01.IntegerOperations.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\obj\Debug\net7.0\refint\01.IntegerOperations.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\obj\Debug\net7.0\01.IntegerOperations.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\obj\Debug\net7.0\01.IntegerOperations.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\01.IntegerOperations\obj\Debug\net7.0\ref\01.IntegerOperations.dll

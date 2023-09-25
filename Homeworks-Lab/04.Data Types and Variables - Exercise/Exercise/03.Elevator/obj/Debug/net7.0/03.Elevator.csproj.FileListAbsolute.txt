@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\bin\Debug\net7.0\03.Elevator.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\bin\Debug\net7.0\03.Elevator.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\bin\Debug\net7.0\03.Elevator.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\bin\Debug\net7.0\03.Elevator.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\bin\Debug\net7.0\03.Elevator.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\obj\Debug\net7.0\03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\obj\Debug\net7.0\03.Elevator.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\obj\Debug\net7.0\03.Elevator.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\obj\Debug\net7.0\03.Elevator.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\obj\Debug\net7.0\03.Elevator.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\obj\Debug\net7.0\refint\03.Elevator.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\obj\Debug\net7.0\03.Elevator.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\obj\Debug\net7.0\03.Elevator.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\04.Data Types and Variables - Exercise\Exercise\03.Elevator\obj\Debug\net7.0\ref\03.Elevator.dll
