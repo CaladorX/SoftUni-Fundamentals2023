@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net7.0\02.PrintNumbersInReverseOrder.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net7.0\02.PrintNumbersInReverseOrder.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net7.0\02.PrintNumbersInReverseOrder.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net7.0\02.PrintNumbersInReverseOrder.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\bin\Debug\net7.0\02.PrintNumbersInReverseOrder.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net7.0\02.PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net7.0\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net7.0\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net7.0\02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net7.0\02.PrintNumbersInReverseOrder.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net7.0\refint\02.PrintNumbersInReverseOrder.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net7.0\02.PrintNumbersInReverseOrder.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net7.0\02.PrintNumbersInReverseOrder.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\02.PrintNumbersInReverseOrder\obj\Debug\net7.0\ref\02.PrintNumbersInReverseOrder.dll

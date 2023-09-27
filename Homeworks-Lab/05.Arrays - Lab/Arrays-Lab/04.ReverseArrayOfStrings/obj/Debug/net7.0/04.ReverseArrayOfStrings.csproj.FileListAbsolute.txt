@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net7.0\04.ReverseArrayOfStrings.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net7.0\04.ReverseArrayOfStrings.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net7.0\04.ReverseArrayOfStrings.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net7.0\04.ReverseArrayOfStrings.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\bin\Debug\net7.0\04.ReverseArrayOfStrings.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net7.0\04.ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net7.0\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net7.0\04.ReverseArrayOfStrings.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net7.0\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net7.0\04.ReverseArrayOfStrings.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net7.0\refint\04.ReverseArrayOfStrings.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net7.0\04.ReverseArrayOfStrings.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net7.0\04.ReverseArrayOfStrings.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\04.ReverseArrayOfStrings\obj\Debug\net7.0\ref\04.ReverseArrayOfStrings.dll
