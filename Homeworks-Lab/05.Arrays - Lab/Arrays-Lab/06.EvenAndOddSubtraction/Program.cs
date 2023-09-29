@@ -4,7 +4,33 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int[] numbers = Console.ReadLine()
+                .Split(" ")
+                .Select(int.Parse)
+                .ToArray();
+
+            int even = 0;
+            int odd = 0;
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                int currentNumber = numbers[i];
+
+                if (currentNumber % 2 == 0)
+                {
+                    even += currentNumber;
+                }
+                
+                if (currentNumber % 2 != 0) 
+                { 
+                    odd += currentNumber; }
+
+
+            }
+
+            int sum = even - odd;
+
+            Console.WriteLine(sum);
         }
     }
 }

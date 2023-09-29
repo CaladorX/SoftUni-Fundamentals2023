@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net7.0\05.SumEvenNumbers.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net7.0\05.SumEvenNumbers.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net7.0\05.SumEvenNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net7.0\05.SumEvenNumbers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\bin\Debug\net7.0\05.SumEvenNumbers.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net7.0\05.SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net7.0\05.SumEvenNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net7.0\05.SumEvenNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net7.0\05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net7.0\05.SumEvenNumbers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net7.0\refint\05.SumEvenNumbers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net7.0\05.SumEvenNumbers.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net7.0\05.SumEvenNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\05.Arrays - Lab\Arrays-Lab\05.SumEvenNumbers\obj\Debug\net7.0\ref\05.SumEvenNumbers.dll
