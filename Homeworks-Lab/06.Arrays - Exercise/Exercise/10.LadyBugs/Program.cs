@@ -97,7 +97,6 @@ namespace _10.LadyBugs
                         break;
                 }
             }
-
             Console.WriteLine(string.Join(" ", field));
         }
     }
