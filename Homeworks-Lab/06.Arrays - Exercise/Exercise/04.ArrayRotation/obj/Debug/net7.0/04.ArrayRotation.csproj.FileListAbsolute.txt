@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\bin\Debug\net7.0\04.ArrayRotation.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\bin\Debug\net7.0\04.ArrayRotation.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\bin\Debug\net7.0\04.ArrayRotation.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\bin\Debug\net7.0\04.ArrayRotation.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\bin\Debug\net7.0\04.ArrayRotation.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\obj\Debug\net7.0\04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\obj\Debug\net7.0\04.ArrayRotation.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\obj\Debug\net7.0\04.ArrayRotation.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\obj\Debug\net7.0\04.ArrayRotation.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\obj\Debug\net7.0\04.ArrayRotation.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\obj\Debug\net7.0\refint\04.ArrayRotation.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\obj\Debug\net7.0\04.ArrayRotation.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\obj\Debug\net7.0\04.ArrayRotation.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\06.Arrays - Exercise\Exercise\04.ArrayRotation\obj\Debug\net7.0\ref\04.ArrayRotation.dll

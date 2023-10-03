@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int[] number = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+            for (int i = 0; i < number.Length; i++)
+            {
+
+            }
         }
     }
 }
