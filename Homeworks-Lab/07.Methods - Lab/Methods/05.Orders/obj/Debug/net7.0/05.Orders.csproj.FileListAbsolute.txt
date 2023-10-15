@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\bin\Debug\net7.0\05.Orders.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\bin\Debug\net7.0\05.Orders.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\bin\Debug\net7.0\05.Orders.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\bin\Debug\net7.0\05.Orders.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\bin\Debug\net7.0\05.Orders.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\obj\Debug\net7.0\05.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\obj\Debug\net7.0\05.Orders.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\obj\Debug\net7.0\05.Orders.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\obj\Debug\net7.0\05.Orders.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\obj\Debug\net7.0\05.Orders.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\obj\Debug\net7.0\refint\05.Orders.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\obj\Debug\net7.0\05.Orders.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\obj\Debug\net7.0\05.Orders.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\05.Orders\obj\Debug\net7.0\ref\05.Orders.dll

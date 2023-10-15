@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\bin\Debug\net7.0\09.GreaterOfTwoValues.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\bin\Debug\net7.0\09.GreaterOfTwoValues.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\bin\Debug\net7.0\09.GreaterOfTwoValues.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\bin\Debug\net7.0\09.GreaterOfTwoValues.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\bin\Debug\net7.0\09.GreaterOfTwoValues.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\obj\Debug\net7.0\refint\09.GreaterOfTwoValues.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\obj\Debug\net7.0\09.GreaterOfTwoValues.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\07.Methods - Lab\Methods\09.GreaterOfTwoValues\obj\Debug\net7.0\ref\09.GreaterOfTwoValues.dll
