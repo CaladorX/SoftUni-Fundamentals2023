@@ -5,21 +5,21 @@
         static void Main(string[] args)
         {
             string input;
-            while ((input = Console.ReadLine()) != "END") ;
+            while ((input = Console.ReadLine()) != "END")
             {
                 bool isNumberPalindrome = IsPalidrome(input);
-                Console.WriteLine(isNumberPalindrome);
+                Console.WriteLine(IsPalidrome(input));
             }
         }
 
-        private static bool IsPalidrome(string symbols)
+        private static bool IsPalidrome(string input)
         {
             int left = 0;
-            int right = symbols.Length - 1;
+            int right = input.Length - 1;
 
             while (left < right)
             {
-                if (symbols[left] != symbols[right])
+                if (input[left] != input[right])
                 {
                     return false;
                 }

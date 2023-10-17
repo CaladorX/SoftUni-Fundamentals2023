@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\bin\Debug\net7.0\09.PalindromeIntegers.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\bin\Debug\net7.0\09.PalindromeIntegers.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\bin\Debug\net7.0\09.PalindromeIntegers.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\bin\Debug\net7.0\09.PalindromeIntegers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\bin\Debug\net7.0\09.PalindromeIntegers.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\obj\Debug\net7.0\refint\09.PalindromeIntegers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\obj\Debug\net7.0\09.PalindromeIntegers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\08.Methods - Exercise\Exercise\09.PalindromeIntegers\obj\Debug\net7.0\ref\09.PalindromeIntegers.dll
