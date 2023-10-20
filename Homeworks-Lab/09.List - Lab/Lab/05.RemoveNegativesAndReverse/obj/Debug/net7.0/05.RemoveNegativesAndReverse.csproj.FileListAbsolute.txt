@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\bin\Debug\net7.0\05.RemoveNegativesAndReverse.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\bin\Debug\net7.0\05.RemoveNegativesAndReverse.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\bin\Debug\net7.0\05.RemoveNegativesAndReverse.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\bin\Debug\net7.0\05.RemoveNegativesAndReverse.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\bin\Debug\net7.0\05.RemoveNegativesAndReverse.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\obj\Debug\net7.0\05.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\obj\Debug\net7.0\05.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\obj\Debug\net7.0\05.RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\obj\Debug\net7.0\05.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\obj\Debug\net7.0\05.RemoveNegativesAndReverse.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\obj\Debug\net7.0\refint\05.RemoveNegativesAndReverse.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\obj\Debug\net7.0\05.RemoveNegativesAndReverse.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\obj\Debug\net7.0\05.RemoveNegativesAndReverse.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\05.RemoveNegativesAndReverse\obj\Debug\net7.0\ref\05.RemoveNegativesAndReverse.dll

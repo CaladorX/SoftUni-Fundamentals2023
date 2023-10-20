@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\bin\Debug\net7.0\01.SumAdjacentEqualNumbers.exe
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\bin\Debug\net7.0\01.SumAdjacentEqualNumbers.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\bin\Debug\net7.0\01.SumAdjacentEqualNumbers.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\bin\Debug\net7.0\01.SumAdjacentEqualNumbers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\bin\Debug\net7.0\01.SumAdjacentEqualNumbers.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\obj\Debug\net7.0\01.SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\obj\Debug\net7.0\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\obj\Debug\net7.0\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\obj\Debug\net7.0\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\obj\Debug\net7.0\01.SumAdjacentEqualNumbers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\obj\Debug\net7.0\refint\01.SumAdjacentEqualNumbers.dll
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\obj\Debug\net7.0\01.SumAdjacentEqualNumbers.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\obj\Debug\net7.0\01.SumAdjacentEqualNumbers.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Homeworks-Lab\09.List - Lab\Lab\01.SumAdjacentEqualNumbers\obj\Debug\net7.0\ref\01.SumAdjacentEqualNumbers.dll
