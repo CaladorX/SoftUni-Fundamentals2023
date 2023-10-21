@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\bin\Debug\net7.0\01. Guinea Pig.exe
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\bin\Debug\net7.0\01. Guinea Pig.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\bin\Debug\net7.0\01. Guinea Pig.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\bin\Debug\net7.0\01. Guinea Pig.dll
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\bin\Debug\net7.0\01. Guinea Pig.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\obj\Debug\net7.0\01. Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\obj\Debug\net7.0\01. Guinea Pig.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\obj\Debug\net7.0\01. Guinea Pig.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\obj\Debug\net7.0\01. Guinea Pig.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\obj\Debug\net7.0\01. Guinea Pig.dll
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\obj\Debug\net7.0\refint\01. Guinea Pig.dll
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\obj\Debug\net7.0\01. Guinea Pig.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\obj\Debug\net7.0\01. Guinea Pig.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Exams\1.Mid Exam Preparation - 1\01. Guinea Pig\obj\Debug\net7.0\ref\01. Guinea Pig.dll
