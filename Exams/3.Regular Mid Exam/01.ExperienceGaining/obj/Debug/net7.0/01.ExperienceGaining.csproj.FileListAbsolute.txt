@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\bin\Debug\net7.0\01.ExperienceGaining.exe
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\bin\Debug\net7.0\01.ExperienceGaining.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\bin\Debug\net7.0\01.ExperienceGaining.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\bin\Debug\net7.0\01.ExperienceGaining.dll
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\bin\Debug\net7.0\01.ExperienceGaining.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\obj\Debug\net7.0\01.ExperienceGaining.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\obj\Debug\net7.0\01.ExperienceGaining.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\obj\Debug\net7.0\01.ExperienceGaining.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\obj\Debug\net7.0\01.ExperienceGaining.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\obj\Debug\net7.0\01.ExperienceGaining.dll
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\obj\Debug\net7.0\refint\01.ExperienceGaining.dll
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\obj\Debug\net7.0\01.ExperienceGaining.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\obj\Debug\net7.0\01.ExperienceGaining.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\01.ExperienceGaining\obj\Debug\net7.0\ref\01.ExperienceGaining.dll

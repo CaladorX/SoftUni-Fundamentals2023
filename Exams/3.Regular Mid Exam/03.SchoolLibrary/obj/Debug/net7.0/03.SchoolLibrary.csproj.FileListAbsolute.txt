@@ -1,0 +1,14 @@
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\bin\Debug\net7.0\03.SchoolLibrary.exe
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\bin\Debug\net7.0\03.SchoolLibrary.deps.json
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\bin\Debug\net7.0\03.SchoolLibrary.runtimeconfig.json
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\bin\Debug\net7.0\03.SchoolLibrary.dll
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\bin\Debug\net7.0\03.SchoolLibrary.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\obj\Debug\net7.0\03.SchoolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\obj\Debug\net7.0\03.SchoolLibrary.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\obj\Debug\net7.0\03.SchoolLibrary.AssemblyInfo.cs
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\obj\Debug\net7.0\03.SchoolLibrary.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\obj\Debug\net7.0\03.SchoolLibrary.dll
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\obj\Debug\net7.0\refint\03.SchoolLibrary.dll
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\obj\Debug\net7.0\03.SchoolLibrary.pdb
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\obj\Debug\net7.0\03.SchoolLibrary.genruntimeconfig.cache
+D:\GitHub\SoftUni-Fundamentals2023\Exams\3.Regular Mid Exam\03.SchoolLibrary\obj\Debug\net7.0\ref\03.SchoolLibrary.dll
